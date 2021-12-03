@@ -1,0 +1,19 @@
+body {
+    background-image: url(duckbackground.jpg);
+}
+#duck {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+   
+    background-size: cover;
+    background-image: url(duck.gif);
+}
+#counter {
+    border: solid chartreuse;
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    left: 900px;
+    font-size: 80px;
+}
